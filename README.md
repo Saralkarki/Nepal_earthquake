@@ -90,6 +90,20 @@ print(df.describe())
 - Earthquakes distributed across multiple districts/regions in Nepal
 - Magnitude range varies from ~4.0 to ~6.0 on the local magnitude scale
 
+## Visualizations
+
+### Earthquake Geographic Distribution Map
+![Earthquake Map](images/earthquake_map.png)
+*Geographic distribution of earthquakes across Nepal showing epicenter locations and magnitude intensity*
+
+### Magnitude Distribution Analysis
+![Earthquake Distribution](images/earthquakes_1.png)
+*Statistical analysis of earthquake magnitudes showing frequency distribution and trends*
+
+### Temporal and Spatial Analysis Plot
+![Earthquake Plot](images/earthquakes_plot.png)
+*Comprehensive visualization showing temporal trends and spatial patterns in seismic activity*
+
 ## Project Structure
 
 ```
